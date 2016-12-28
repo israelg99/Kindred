@@ -12,4 +12,4 @@ To adapt and win different environments, the agents ought to be versatile.
 - (**q_table.py**) Q-learning with a table using Epsilon Q-Policy (other policies available in the code).
 
 ### Mountain Car
-- (**dq_dnn.py**) Double Q-learning with a Deep Q-Network using Decaying Epsilon Q-Policy with a large Experience Replay.
+- (*dq_dnn.py*) Double Q-learning with a Deep Q-Network using Decaying Epsilon Q-Policy with a large Experience Replay.
