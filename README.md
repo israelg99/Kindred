@@ -1,5 +1,5 @@
 # Kindred
-To adapt and win different environments, the agents ought to be versatile, the motto is *cut like a samurai and sting like a butterfly*.
+To adapt and win different environments, the agents ought to be versatile.
 
 
 **The best models in a given environment are in bold; models in italic can't solve the environment.*
