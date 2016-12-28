@@ -2,7 +2,7 @@
 To adapt and win different environments, the agents ought to be versatile.
 
 
-**Bold models solved the environment while italic ones did not.*
+**The bold models solved the environment while the italic ones did not.*
 ### Cart Pole
 - (**dq_dnn.py**) Double Q-learning with a Deep Q-Network using Boltzmann Q-Policy with a large Experience Replay.
 
